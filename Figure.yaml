@@ -58,6 +58,12 @@
 - name: 吕布
   enable: true
   id: "700300"
+- name: 玛塔·哈丽
+  enable: true
+  id: "601400"
+- name: 布狄卡
+  enable: true
+  id: "401100"
 
 - name: 魔性菩萨
   enable: true

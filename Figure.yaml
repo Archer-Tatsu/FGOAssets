@@ -64,6 +64,42 @@
 - name: 吕布
   enable: true
   id: "700300"
+- name: 武则天
+  enable: true
+  id: "602700"
+- name: 项羽
+  enable: true
+  id: "703200"
+- name: 虞美人
+  enable: true
+  id: "603500"
+- name: 赤兔马
+  enable: true
+  id: "403100"
+- name: 司马懿
+  enable: true
+  id: "403200"
+- name: 哪吒
+  enable: true
+  id: "303100"
+- name: 秦良玉
+  enable: true
+  id: "303500"
+- name: 虞美人lancer
+  enable: true
+  id: "304400"
+- name: 始皇帝
+  enable: true
+  id: "900600"
+- name: 杀生院祈荒ae
+  enable: true
+  id: "1000300"
+- name: 杀生院祈荒mc
+  enable: true
+  id: "2300400"
+- name: 杨贵妃
+  enable: true
+  id: "2500400"
 
 - name: 魔性菩萨
   enable: true

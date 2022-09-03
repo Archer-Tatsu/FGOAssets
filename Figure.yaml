@@ -43,7 +43,6 @@
 - name: 玄奘三藏
   enable: true
   id: "502200"
-
 - name: 布狄卡
   enable: true
   id: "401100"

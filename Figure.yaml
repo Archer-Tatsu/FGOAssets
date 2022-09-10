@@ -58,6 +58,9 @@
 - name: 蒂奇
   enable: true
   id: "400800"
+- name: 蒂奇灵衣
+  enable: true
+  id: "400830"
 - name: 荆轲
   enable: true
   id: "601100"

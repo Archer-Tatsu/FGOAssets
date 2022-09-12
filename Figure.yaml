@@ -103,6 +103,12 @@
 - name: 杨贵妃
   enable: true
   id: "2500400"
+- name: Saber·Alter
+  enable: true
+  id: "100200"
+- name: 尼禄·新娘
+  enable: true
+  id: "100600"
 
 - name: 魔性菩萨
   enable: true
